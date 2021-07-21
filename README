@@ -1,0 +1,8 @@
+#Buzera Tiberiu 323CA
+
+Am avut de implementat 2 functii, funtia iocla_atoi care trebuia sa transforme un sir
+intr-un numar, functie implememtata folosind o structura de for prin care am parcurs sirul.
+
+Cea dea doua funtie implementata a fost create_tree, in care am parcurs sirul cu ajutorul lui strtok
+Am creat noduri pentru fiecare portiune de sir folosind calloc si strdup
+Am creat arborele imitand un algoritm recursiv cu ajutorul stivei.
